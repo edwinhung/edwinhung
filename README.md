@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Edwin Hung</h1>
 <h3 align="center">A passionate Javascript developer from Seattle</h3>
 
+- I love coding 
+- 🤝 I want to collaborate! If you are interested in my projects or have interesting projects, reach out to me in LinkedIn or X. 
 - ⚡ Fun fact **I am addicted to tennis.**
 
 <h3 align="left">Connect with me:</h3>
